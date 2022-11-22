@@ -5,7 +5,7 @@
 ### Graphic Design Projects 
 
 [Project 1: Ripped Text Effect]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Liquid Marbled Effect.png?raw=true"/>
 
 ---
 [Project 2: Galexy Cat]
