@@ -9,7 +9,7 @@
 
 ---
 [Project 2: Galexy Cat]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Dual Color and Lighting Effect.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
