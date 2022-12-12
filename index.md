@@ -8,7 +8,7 @@
 <img src="images/Liquid Marbled Effect.png?raw=true"/>
 
 ---
-[Project 2: Galexy Cat]
+[Project 2: Dual Color and Lighting Effect]
 <img src="images/Dual Color and Lighting Effect.jpg?raw=true"/>
 
 ---
