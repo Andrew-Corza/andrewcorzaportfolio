@@ -12,8 +12,8 @@
 <img src="images/Dual Color and Lighting Effect.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 3D Pop Art Effect]
+<img src="images/3D Pop Art Effect.jpg?raw=true"/>
 
 ---
 
