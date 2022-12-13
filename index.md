@@ -16,6 +16,12 @@
 <img src="images/3D Pop Art Effect.jpg?raw=true"/>
 
 ---
+[Project 4 Abstract Art]
+<img src="images/Abstract Art.jpg?raw=true"/>
+
+---
+[Project 5 Pop Art]
+<img src="images/Pop Art.jpg?raw=true"/>
 
 ### Category Name 2
 
