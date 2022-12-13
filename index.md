@@ -23,6 +23,15 @@
 [Project 5 Pop Art]
 <img src="images/Pop Art.jpg?raw=true"/>
 
+---
+[Project 6 M Perfomance]
+<img src="images/M Perfomance.jpg?raw=true"/>
+
+---
+[Project 7 Image in Text Chicago]
+<img src="images/Image in Text Chicago.jpg?raw=true"/>
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/) 
