@@ -32,16 +32,18 @@
 <img src="images/Image in Text Chicago.jpg?raw=true"/>
 
 ---
-### Category Name 2
+### My Web Design Project 
 
-- [Project 1 Title](http://example.com/) 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 About Me](http://example.com/) 
+- [Project 2 Celebrity Project or Tell a Story]([http://example.com/](https://trinket.io/html/50f8b6d5c5?outputOnly=true))
+- [Project 3 Animation - Moon]([http://example.com/](https://trinket.io/html/284b940f4c?outputOnly=true))
+- [Project 4 Sunrise Animation]([http://example.com/](https://trinket.io/html/0e2b8a352b?outputOnly=true))
+- [Project 5 Stickers]([http://example.com/](https://trinket.io/html/25ec2752dc?outputOnly=true))
 
 ---
+### My Midterm Project 
 
+-[Midterm Project - Coast2Coast Resturaunt](https://coast2coastresturaunt.w3spaces.com)
 
 
 
